@@ -4,7 +4,8 @@
   "description": "batar batar app is a chat app made by venom",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon ./index.js"
   },
   "author": "venom",
   "license": "ISC",
